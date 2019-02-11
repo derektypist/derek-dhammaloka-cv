@@ -40,6 +40,10 @@
 
 }
 
+.bg-color-personal-info {
+    background-color: #f4f4f4;
+}
+
 /* Special Padding/Margins/Text */
 
 h1, h2, h3, h4 {
@@ -58,12 +62,6 @@ h1, h2, h3, h4 {
 
 .inline-block {
     display: inline-block;
-}
-
-.section-column {
-    padding: 0 30px 30px;
-    float: none;
-    display: table-cell;
 }
 
 .row-table {
@@ -247,9 +245,7 @@ footer .cv-pdf i:hover {
     clear: both;
 }
 
-.bg-color-personal-info {
-    background-color: #f4f4f4;
-}
+
 
 .personal-info-item .key, .personal-info-item .value {
     padding-right: 8px;
