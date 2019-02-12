@@ -40,12 +40,17 @@
 
 }
 
+
 .bg-color-personal-info {
     background-color: #f4f4f4;
 }
 
 .bg-color-work-history {
     background-color: #9b59b6;
+}
+
+.bg-color-contact {
+    background-color: #ffffff;
 }
 
 /* Special Padding/Margins/Text */
@@ -348,6 +353,28 @@ footer .cv-pdf i:hover {
     margin-bottom: 30px;
 }
 
+/* Contact */
+
+.contact-heading {
+    font-family: "Exo", Arial, Verdana, sans-serif;
+    font-weight: 300;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+
+.center-form {
+    padding-top: 10px;
+    margin: 0 auto;
+    max-width: 70%;
+}
+
+button[type="submit"] {
+    margin-top: 15px;
+    margin-bottom: 20px;
+    background-color: #e84610;
+    color: #fafafa;
+}
+
 /* Media Queries */
 
 @media (min-width: 992px) {
@@ -356,4 +383,12 @@ footer .cv-pdf i:hover {
         float: none;
         display: table-cell;
     }
+    
+    .center-form {
+    padding-top: 30px;
+    min-height: 240px;
+    margin: 0 auto;
+    max-width: 50%;
+}
+    
 }
