@@ -72,7 +72,7 @@ h1, h2, h3, h4 {
     display: table;
 }
 
-.section-heading {
+.history-heading, .section-heading {
     font-family: "Exo", Arial, Verdana, sans-serif;
     font-weight: 300;
     margin-top: 25px;
@@ -337,6 +337,15 @@ footer .cv-pdf i:hover {
     border-radius: 12px;
     content: '';
     background: #fafafa;
+}
+
+.history-heading {
+    color: #fafafa;
+    margin-bottom: 50px;
+}
+
+.history-items {
+    margin-bottom: 30px;
 }
 
 /* Media Queries */
