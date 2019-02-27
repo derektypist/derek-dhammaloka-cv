@@ -53,6 +53,24 @@
     background-color: #ffffff;
 }
 
+.bg-color-conferences {
+
+    background-color: #f4f4f4;
+
+}
+
+
+.bg-color-groups {
+
+    background-color: #ffffff;
+
+}
+
+
+
+
+
+
 /* Special Padding/Margins/Text */
 
 h1, h2, h3, h4 {
@@ -394,4 +412,7 @@ button[type="submit"] {
 }
 
 /* Maps */
-div#map {min-height: 360px;}
+div#map {
+    min-height: 360px;
+    
+}
