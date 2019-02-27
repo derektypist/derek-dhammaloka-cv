@@ -382,6 +382,17 @@ footer .cv-pdf i:hover {
     margin-bottom: 30px;
 }
 
+/* Interests */
+.interest-links {
+    color: #3498db;
+}
+
+.interest-links:hover {
+    color: #e67e22;
+    text-decoration: none;
+}
+
+
 /* Contact */
 
 .contact-heading {
