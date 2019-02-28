@@ -31,7 +31,6 @@ function userInformationHTML(user) {
 }
 
 
-
 function repoInformationHTML(repos) {
 
     if (repos.length == 0) {
@@ -39,8 +38,6 @@ function repoInformationHTML(repos) {
         return `<div class="clearfix repo-list">No repos!</div>`;
 
     }
-
-
 
     var listItemsHTML = repos.map(function(repo) {
 
@@ -51,7 +48,6 @@ function repoInformationHTML(repos) {
                 </li>`;
 
     });
-
 
 
     return `<div class="clearfix repo-list">
@@ -73,7 +69,6 @@ function repoInformationHTML(repos) {
 }
 
 
-
 function fetchGitHubInformation(event) {
 
     $("#gh-user-data").html("");
@@ -92,8 +87,6 @@ function fetchGitHubInformation(event) {
 
     }
 
-
-
     $("#gh-user-data").html(
 
         `<div id="loader">
@@ -101,7 +94,6 @@ function fetchGitHubInformation(event) {
             <img src="assets/css/loader.gif" alt="loading..." />
 
         </div>`);
-
 
 
     $.when(
@@ -132,6 +124,12 @@ function fetchGitHubInformation(event) {
 
                     `<h2>No info found for user ${username}</h2>`);
 
+            } else if (errorResponse.status === 403) {
+
+                var resetTime = new Date(errorResponse.getResponseHeader('X-RateLimit-Reset') * 1000);
+
+                $("#gh-user-data").html(`<h4>Too many requests, please wait until ${resetTime.toLocaleTimeString()}</h4>`);
+
             } else {
 
                 console.log(errorResponse);
@@ -145,7 +143,5 @@ function fetchGitHubInformation(event) {
         });
 
 }
-
-
 
 $(document).ready(fetchGitHubInformation);
