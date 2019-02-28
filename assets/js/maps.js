@@ -18,43 +18,66 @@
  
      var labels = "ABCDEFGHIJKLMONPQRSTUVWXYZ";
  
-    // Cambridge Science Park, University of Leicester, 
-    // Best Western Hotel Acocks Green, IoD Pall Mall London
-    // and Copthorne Hotel Merry Hill Dudley
+    /* Label A is Cambridge Science Park
+    Label B is University of Leicester,
+    Label C is Best Western Hotel Acocks Green (Birmingham)
+    Label D is IoD Pall Mall London
+    Label E is Copthorne Hotel Merry Hill Dudley
+    Label F is Hotel Novotel London West (Hammersmith)
+    Label G is Copthorne Tara Hotel London Kensington
+    Label H is De Morgan House (Conference Centre) in Russell Square, London */
  
      var locations = [{
- 
-         lat: 52.2357366,
- 
-         lng: 0.1361489
- 
+     
+      lat: 52.2320998,
+     
+      lng: 0.1415806
+     
      }, {
- 
-         lat: 52.6211393, 
- 
-         lng: -1.1268212
- 
+     
+      lat: 52.6211393, 
+   
+      lng: -1.1246325
+     
      }, {
- 
-         lat: 52.4455676, 
- 
-         lng: -1.8271322
- 
+     
+      lat: 52.4455676,
+     
+      lng: -1.8271322
+     
+     }, {
+     
+      lat: 51.5071851,
+     
+      lng: -0.1316683
+     
+     
+     }, {
+     
+      lat: 52.4850317,
+      
+      lng: -2.1150972
+     
      }, {
       
-         lat: 51.5072671, 
- 
-         lng: -0.134112
- 
+      lat: 51.4920396, 
+      
+      lng: -0.2198412
+     
+     }, {
+      
+      lat: 51.4985245, 
+      
+      lng: -0.1908758
+     
       
      }, {
      
-        lat: 52.4850317,
-        lng: -2.1172859
+     lat: 51.521232,
+     
+     lng: -0.124308
      
      }];
- 
- 
  
      var markers = locations.map(function(location, i) {
  
