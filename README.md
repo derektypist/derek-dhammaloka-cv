@@ -1,7 +1,8 @@
-Welcome to User Centric Front End Development of
-Derek Dhammaloka's CV
+# Derek Dhammaloka CV
 
-# Contents
+Welcome to Derek Dhammaloka's CV.
+
+## Contents
 
     Index Page
     Resume
@@ -10,6 +11,9 @@ Derek Dhammaloka's CV
     Github
     Download CV
     Social Links
+    Technologies
+    Testing
+    Deployment
 
 ## Index Page
 
@@ -54,3 +58,26 @@ A PDF File of my CV is available for downloading (it opens in a new window).
 ## Social Links
 
 Social Links (e.g. Facebook and LinkedIn) are available on every page.
+
+## Technologies
+
+* HTML5
+* CSS3
+* JavaScript
+* jQuery
+* Bootstrap 4.3.1
+
+## Testing
+
+All External Links (including social media) open in a new window without leaving the website using the target=_blank attribute.  The links are manually tested to
+ensure that they are taken to the correct destination.
+
+## Deployment
+
+This is deployed on GitHub Pages.  Repository is at https://github.com/derektypist/derek-dhammaloka-cv
+
+Use the command
+
+    git push
+    
+to update any changes
