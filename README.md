@@ -44,7 +44,8 @@ BCS at June 2012 - East Anglia Branch).
     Label G - Copthorne Tara Hotel London Kensington
     Label H - De Morgan House (Conference Centre) - Russell Square, London
 
-My Groups and Societies include BCS, IMA and w3schools.com (Public Facebook Group).
+My Groups and Societies include BCS, IMA and w3schools.com (Public Facebook Group).  Tooltips are provided
+to let the browser know that the user has hovered over these interest links.
 
 ## GitHub
 
@@ -57,7 +58,7 @@ A PDF File of my CV is available for downloading (it opens in a new window).
 
 ## Social Links
 
-Social Links (e.g. Facebook and LinkedIn) are available on every page.
+Social Links (e.g. Facebook and LinkedIn) are available on every page.  Tooltips are provided.
 
 ## Technologies
 
