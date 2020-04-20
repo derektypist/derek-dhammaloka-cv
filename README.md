@@ -75,7 +75,7 @@ ensure that they are taken to the correct destination.
 
 ## Deployment
 
-This is deployed on GitHub Pages.  Repository is at https://github.com/derektypist/derek-dhammaloka-cv
+This is deployed on [GitHub Pages](https://derektypist.github.io/derek-dhammaloka-cv) at the Master Branch.
 
 Use the command
 
