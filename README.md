@@ -1,8 +1,10 @@
 # Derek Dhammaloka CV
 
-Welcome to Derek Dhammaloka's CV.
+Welcome to Derek Dhammaloka's CV.  The purpose of this project is to provide information on Interests, GitHub, Resume and Contact.
 
-## Contents
+## UX
+
+### Contents
 
     Index Page
     Resume
@@ -15,7 +17,7 @@ Welcome to Derek Dhammaloka's CV.
     Testing
     Deployment
 
-## Index Page
+### Index Page
 
 The Index Page contains Personal Info and About Me.
 
@@ -43,9 +45,9 @@ BCS at June 2012 - East Anglia Branch).
     Label F - Hotel Novotel London West (Hammersmith)
     Label G - Copthorne Tara Hotel London Kensington
     Label H - De Morgan House (Conference Centre) - Russell Square, London
+    Label I - Raspberry PI Foundation Cambridge
 
-My Groups and Societies include BCS, IMA and w3schools.com (Public Facebook Group).  Tooltips are provided
-to let the browser know that the user has hovered over these interest links.
+My Groups and Societies include BCS, IMA and w3schools.com (Public Facebook Group).  Tooltips are provided to let the browser know that the user has hovered over these interest links.
 
 ## GitHub
 
@@ -62,11 +64,12 @@ Social Links (e.g. Facebook and LinkedIn) are available on every page.  Tooltips
 
 ## Technologies
 
-* HTML5
-* CSS3
-* JavaScript
-* jQuery
-* Bootstrap 4.3.1
+- HTML5
+- CSS3
+- JavaScript
+- jQuery
+- Bootstrap 4.3.1
+- Font Awesome 4.7.0
 
 ## Testing
 
