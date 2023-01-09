@@ -1,6 +1,6 @@
 # Derek Dhammaloka CV
 
-Welcome to Derek Dhammaloka's CV.  The purpose of this project is to provide information on Interests, GitHub, Resume and Contact.
+Welcome to Derek Dhammaloka's CV.  The purpose of this project is to provide information on Interests, GitHub, Resume and Contact.  A copy of the CV can be viewed and/or downloaded.
 
 ## UX
 
@@ -19,7 +19,7 @@ On each of the pages, there are links to Facebook and LinkedIn.  Tooltips are pr
 
 On the Interests page, you can get more information on BCS, W3Schools and IMA by selecting one of the links (opens in a new tab).
 
-On the GitHub page, simply enter the username (e.g. derektypist) on the input field.  If the username is blank, you will be asked to enter a username.  If the username does not exist, then there is no information for that username.  If there is information for the username, you will see the username, image (if any), number of followers, number following, number of repositories and repo list.
+On the GitHub page, simply enter the username (e.g. derektypist) on the input field.  If the username is blank, you will be asked to enter a username.  If the username does not exist, then there is no information for that username.  If there is information for the username, you will see the username, image (if any), number of followers, number following, number of repositories and repo list.  If you have made too many requests, you will be asked to wait until a certain time.
 
 On the Download CV, you can download a copy of my CV for printing.
 
@@ -48,6 +48,8 @@ As a user, if I do not enter a username, I will be required to enter a username.
 As a user, if I enter a username that does not exist, I will get the message
 
 `No info found for user ${username}`
+
+As a user, if I have made too many requests, I will be asked to wait until a certain time.
 
 **Information Architecture**
 
@@ -92,6 +94,8 @@ BCS at June 2012 - East Anglia Branch).
     Label H - De Morgan House (Conference Centre) - Russell Square, London
     Label I - Raspberry PI Foundation Cambridge
 
+All locations on the map are approximate.
+
 My Groups and Societies include BCS, IMA and w3schools.com (Public Facebook Group).  Tooltips are provided to let the browser know that the user has hovered over these interest links.
 
 ### GitHub
@@ -120,7 +124,7 @@ You can view details of my work history and skills.
 
 You can get more information on my interests in the interests page.
 
-You can view my GitHub Projects as well as search for 
+You can view my GitHub Projects as well as search for other user profiles.
 
 ## Technologies
 
@@ -145,3 +149,18 @@ Use the command
     git push
     
 to update any changes
+
+## Credits
+
+### Content
+
+Most of the code is taken from the mini-project video with Code Institute.
+
+### Media
+
+Image provided by myself.
+
+### Acknowledgements
+
+- [Code Institute](https://www.codeinstitute.net)
+- Raimonda Svirskis - IPES Key Worker - CPA5
