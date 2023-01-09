@@ -19,6 +19,8 @@ On each of the pages, there are links to Facebook and LinkedIn.  Tooltips are pr
 
 On the Interests page, you can get more information on BCS, W3Schools and IMA by selecting one of the links (opens in a new tab).
 
+On the GitHub page, simply enter the username (e.g. derektypist) on the input field.  If the username is blank, you will be asked to enter a username.  If the username does not exist, then there is no information for that username.  If there is information for the username, you will see the username, image (if any), number of followers, number following, number of repositories and repo list.
+
 On the Download CV, you can download a copy of my CV for printing.
 
 **User Stories**
@@ -40,6 +42,12 @@ As a user, I can view my interests.
 As a user, I can view my GitHub Projects.
 
 As a user, I can search on other user profiles (e.g. igorvanloo).
+
+As a user, if I do not enter a username, I will be required to enter a username.
+
+As a user, if I enter a username that does not exist, I will get the message
+
+`No info found for user ${username}`
 
 **Information Architecture**
 
@@ -89,11 +97,12 @@ My Groups and Societies include BCS, IMA and w3schools.com (Public Facebook Grou
 ### GitHub
 
 The GitHub Page is where you (the user) can view my GitHub Projects (user name derektypist)
-as well as searching on other user profiles (e.g. igorvanloo).
+as well as searching on other user profiles (e.g. igorvanloo).  If the username does not exist, the message `No info found for user ${username}` appears.
 
 GitHub Information consists of:
 
 - Username (e.g. derektypist)
+- Image of Username (if any)
 - Number of Followers
 - Number Following
 - Number of Repositories
@@ -111,6 +120,7 @@ You can view details of my work history and skills.
 
 You can get more information on my interests in the interests page.
 
+You can view my GitHub Projects as well as search for 
 
 ## Technologies
 
