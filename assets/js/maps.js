@@ -28,6 +28,7 @@ function initMap() {
     Label G is Copthorne Tara Hotel London Kensington
     Label H is De Morgan House (Conference Centre) in Russell Square, London
     Label I is Raspberry PI Foundation Cambridge
+    Label J is Hot Numbers Cambridge
     */
 
     var locations = [{
@@ -85,6 +86,11 @@ function initMap() {
     {
         lat: 52.1967916,
         lng: 0.1294711
+    },
+
+    {
+        lat: 52.20213,
+        lng: 0.139268
     }];
 
     var markers = locations.map(function (location, i) {
