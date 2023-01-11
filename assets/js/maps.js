@@ -30,6 +30,7 @@ function initMap() {
     Label I is Raspberry PI Foundation Cambridge
     Label J is Hot Numbers Cambridge
     Label K is Cambridge Brew House
+    Label L is The Maypole Cambridge
     */
 
     var locations = [{
@@ -92,10 +93,13 @@ function initMap() {
     {
         lat: 52.20213,
         lng: 0.139268
-    }, 
+    },
     {
         lat: 52.20744,
         lng: 0.122225
+    }, {
+        lat: 52.2087615,
+        lng: 0.1177189
     }];
 
     var markers = locations.map(function (location, i) {
