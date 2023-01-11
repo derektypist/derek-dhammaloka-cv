@@ -82,7 +82,7 @@ The Contact Page is where you (the user) can request a project by filling in the
 
 Interests Page gives details of Conferences and Meetups I have attended in a Map.
 They can include professional organisations (e.g. Cambridge Data Mashup with
-BCS at June 2012 - East Anglia Branch).
+BCS at June 2012 - East Anglia Branch).  The Conferences and Meetups do not have to be limited to Information Technology.
 
     Label A - Cambridge Science Park
     Label B - University of Leicester
@@ -93,6 +93,8 @@ BCS at June 2012 - East Anglia Branch).
     Label G - Copthorne Tara Hotel London Kensington
     Label H - De Morgan House (Conference Centre) - Russell Square, London
     Label I - Raspberry PI Foundation Cambridge
+    Label J - Hot Numbers Cambridge
+    Label K - Cambridge Brew House
 
 All locations on the map are approximate.
 
