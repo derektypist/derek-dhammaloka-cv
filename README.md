@@ -95,6 +95,7 @@ BCS at June 2012 - East Anglia Branch).  The Conferences and Meetups do not have
     Label I - Raspberry PI Foundation Cambridge
     Label J - Hot Numbers Cambridge
     Label K - Cambridge Brew House
+    Label L - The Maypole Cambridge
 
 All locations on the map are approximate.
 
@@ -136,10 +137,11 @@ You can view my GitHub Projects as well as search for other user profiles.
 - jQuery
 - Bootstrap 4.3.1
 - Font Awesome 4.7.0
+- Google Maps
 
 ## Testing
 
-All External Links (including social media) open in a new window without leaving the website using the target=_blank attribute.  The links are manually tested to
+All External Links (including social media) open in a new window without leaving the website using the `target=_blank` attribute.  The links are manually tested to
 ensure that they are taken to the correct destination.
 
 ## Deployment
@@ -165,4 +167,5 @@ Image provided by myself.
 ### Acknowledgements
 
 - [Code Institute](https://www.codeinstitute.net)
+- [Meetup](https://www.meetup.com)
 - Raimonda Svirskis - IPES Key Worker - CPA5
