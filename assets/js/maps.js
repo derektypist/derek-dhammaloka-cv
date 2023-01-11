@@ -29,6 +29,7 @@ function initMap() {
     Label H is De Morgan House (Conference Centre) in Russell Square, London
     Label I is Raspberry PI Foundation Cambridge
     Label J is Hot Numbers Cambridge
+    Label K is Cambridge Brew House
     */
 
     var locations = [{
@@ -91,6 +92,10 @@ function initMap() {
     {
         lat: 52.20213,
         lng: 0.139268
+    }, 
+    {
+        lat: 52.20744,
+        lng: 0.122225
     }];
 
     var markers = locations.map(function (location, i) {
