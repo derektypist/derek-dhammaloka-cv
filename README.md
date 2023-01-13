@@ -17,9 +17,9 @@ Simply visit one of the following pages:
 
 On each of the pages, there are links to Facebook and LinkedIn.  Tooltips are provided on hovering over the links.
 
-On the Interests page, you can get more information on BCS, W3Schools and IMA by selecting one of the links (opens in a new tab).
+On the Interests page, you can get more information on BCS, W3Schools and IMA by selecting one of the links (opens in a new tab).  You can also view the locations of the Conferences and Meetups I have attended on Google Maps.  The Conferences and Meetups do not have to be limited to Information Technology.
 
-On the GitHub page, simply enter the username (e.g. derektypist) on the input field.  If the username is blank, you will be asked to enter a username.  If the username does not exist, then there is no information for that username.  If there is information for the username, you will see the username, image (if any), number of followers, number following, number of repositories and repo list.  If you have made too many requests, you will be asked to wait until a certain time.
+On the GitHub page, simply enter the username (e.g. derektypist) on the input field.  If the username is blank, you will be asked to enter a username.  If the username does not exist, then there is no information for that username.  If there is information for the username, you will see the username, image (if any), number of followers, number following, number of repositories and repo list.  If there are repos, select one of the repos to view the repository (opens in a new tab) or hover over one of the repos to view a tooltip (e.g. View Repository for Hello-World).  If you have made too many requests, you will be asked to wait until a certain time.
 
 On the Download CV, you can download a copy of my CV for printing.
 
@@ -29,9 +29,11 @@ As a user, I can view/download a copy of my CV.
 
 As a user, I can get a tooltip (e.g. LinkedIn) by hovering over one of the social links.
 
-As a user, if I am on the interests page, I can get tooltips by hovering over the links.
+As a user, if I am on the Interests page, I can get tooltips by hovering over the links.
 
-As a user, if I select one of the links, I can get more information on one of the links, for example BCS (opens in a new tab).
+As a user, if I am on the GitHub page and the username has repos, I can get tooltips by hovering over one of the repositories.  For example, `View repository for Hello-World`.
+
+As a user, if I select one of the links, I can get more information on one of the links, for example `BCS` (opens in a new tab).
 
 As a user, I can view my work history.
 
@@ -39,7 +41,7 @@ As a user, I can view my skills.
 
 As a user, I can view my interests.
 
-As a user, I can view GitHub Projects of mine or somebody else.
+As a user, I can view GitHub Projects of anyone (including mine).
 
 As a user, I can search on other user profiles (e.g. igorvanloo).
 
@@ -47,7 +49,7 @@ As a user, if I do not enter a username, I will be required to enter a username.
 
 As a user, if I enter a username that does not exist, I will get the message
 
-`No info found for user ${username}`
+`No info found for user username`
 
 As a user, if I have made too many requests, I will be asked to wait until a certain time.
 
@@ -104,7 +106,7 @@ My Groups and Societies include BCS, IMA and w3schools.com (Public Facebook Grou
 ### GitHub
 
 The GitHub Page is where you (the user) can view my GitHub Projects (user name derektypist)
-as well as searching on other user profiles (e.g. igorvanloo).  If the username does not exist, the message `No info found for user ${username}` appears.
+as well as searching on other user profiles (e.g. igorvanloo).  If the username does not exist, the message `No info found for user username` appears.  If you hover over one of the repositories, you will get a tooltip (e.g. View Repository for Hello-World).  If you select one of the repositories, you can get more information on one of the repositories, for example `Hello-World` (opens in a new tab).
 
 GitHub Information consists of:
 
