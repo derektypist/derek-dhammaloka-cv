@@ -39,7 +39,7 @@ As a user, I can view my skills.
 
 As a user, I can view my interests.
 
-As a user, I can view my GitHub Projects.
+As a user, I can view GitHub Projects of mine or somebody else.
 
 As a user, I can search on other user profiles (e.g. igorvanloo).
 
@@ -113,7 +113,7 @@ GitHub Information consists of:
 - Number of Followers
 - Number Following
 - Number of Repositories
-- Repository List
+- Repository List (if there are repos)
 
 ### Download CV
 
@@ -167,5 +167,6 @@ Image provided by myself.
 ### Acknowledgements
 
 - [Code Institute](https://www.codeinstitute.net)
+- [Google](https://www.google.co.uk)
 - [Meetup](https://www.meetup.com)
 - Raimonda Svirskis - IPES Key Worker - CPA5
