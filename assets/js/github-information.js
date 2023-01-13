@@ -43,7 +43,7 @@ function repoInformationHTML(repos) {
 
         return `<li>
 
-                    <a href="${repo.html_url}" target="_blank">${repo.name}</a>
+                    <a href="${repo.html_url}" target="_blank" title="View Repository for ${repo.name}">${repo.name}</a>
 
                 </li>`;
 
