@@ -31,6 +31,7 @@ function initMap() {
     Label J is Hot Numbers Cambridge
     Label K is Cambridge Brew House
     Label L is The Maypole Cambridge
+    Label M is The Brook Cambridge
     */
 
     var locations = [{
@@ -100,6 +101,9 @@ function initMap() {
     }, {
         lat: 52.2096674,
         lng: 0.1192446
+    }, {
+        lat: 52.1961124,
+        lng: 0.155374
     }];
 
     var markers = locations.map(function (location, i) {
