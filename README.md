@@ -98,6 +98,7 @@ BCS at June 2012 - East Anglia Branch).  The Conferences and Meetups do not have
     Label J - Hot Numbers Cambridge
     Label K - Cambridge Brew House
     Label L - The Maypole Cambridge
+    Label M - The Brook Cambridge
 
 All locations on the map are approximate.
 
@@ -116,6 +117,8 @@ GitHub Information consists of:
 - Number Following
 - Number of Repositories
 - Repository List (if there are repos)
+
+Each Repo has the URL (html_url) and name (name).
 
 ### Download CV
 
