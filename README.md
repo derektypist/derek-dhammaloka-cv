@@ -99,6 +99,7 @@ BCS at June 2012 - East Anglia Branch).  The Conferences and Meetups do not have
     Label K - Cambridge Brew House
     Label L - The Maypole Cambridge
     Label M - The Brook Cambridge
+    Label O - Chesterton Mill Cambridge
 
 All locations on the map are approximate.
 
