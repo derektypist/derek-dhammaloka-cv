@@ -32,7 +32,7 @@ function initMap() {
     Label K is Cambridge Brew House
     Label L is The Maypole Cambridge
     Label M is The Brook Cambridge
-    Label N is Chesterton Mill Cambridge
+    Label O is Chesterton Mill Cambridge
     */
 
     var locations = [{
