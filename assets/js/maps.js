@@ -33,6 +33,7 @@ function initMap() {
     Label L is The Maypole Cambridge
     Label M is The Brook Cambridge
     Label O is Chesterton Mill Cambridge
+    Label P is Grain and Hop Store Cambridge
     */
 
     var locations = [{
@@ -108,6 +109,9 @@ function initMap() {
     }, {
         lat: 52.2188359,
         lng: 0.1139751
+    }, {
+        lat: 52.2005414,
+        lng: 0.1262696
     }];
 
     var markers = locations.map(function (location, i) {
