@@ -110,8 +110,8 @@ function initMap() {
         lat: 52.2188359,
         lng: 0.1139751
     }, {
-        lat: 52.2006212,
-        lng: 0.126302
+        lat: 52.2004625,
+        lng: 0.1262969
     }];
 
     var markers = locations.map(function (location, i) {
