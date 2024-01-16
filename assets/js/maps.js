@@ -32,8 +32,8 @@ function initMap() {
     Label K is Cambridge Brew House
     Label L is The Maypole Cambridge
     Label M is The Brook Cambridge
+    Label N is Grain and Hop Store Cambridge
     Label O is Chesterton Mill Cambridge
-    Label P is Grain and Hop Store Cambridge
     */
 
     var locations = [{
