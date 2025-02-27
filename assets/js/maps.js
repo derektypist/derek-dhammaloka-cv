@@ -135,3 +135,26 @@ function initMap() {
     });
 
 }
+
+// Set Up Map
+let map = L.map('map').fitWorld();
+
+const streets = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+});
+
+const basemaps = {"Streets": streets};
+const buildingMarkers = L.markerClusterGroup();
+const overlays = {"Buildings": buildingMarkers};
+const layerControl = L.control.layers(basemaps, overlays).addTo(map);
+
+const buildingIcon = L.extraMarkers.icon({
+    prefix: 'fa',
+    icon: 'fa-building',
+    iconColor: 'white',
+    svg: true,
+    markerColor: '#970043',
+    shape: 'square'
+});
+
