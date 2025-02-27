@@ -153,7 +153,7 @@ const layerControl = L.control.layers(basemaps, overlays).addTo(map);
 function onLocationFound(e) {
     const latitude = e.latlng['lat'];
     const longitude = e.latlng['lng'];
-
+    map.panTo(latitude, longitude);
 }
 
 map.on('locationfound', onLocationFound);
