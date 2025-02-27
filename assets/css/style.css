@@ -455,6 +455,7 @@ button[type="submit"] {
 
 /* Maps */
 div#map {
+    font-family: Roboto, Arial, Verdana, sans-serif;
     min-height: 360px;
     
 }
