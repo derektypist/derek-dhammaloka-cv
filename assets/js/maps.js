@@ -137,12 +137,13 @@ function initMap() {
 }
 
 // Set Up Map
-let map = L.map('map').fitWorld();
 
 const streets = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 });
+
+let map = L.map('map', {layers: [streets]}).fitWorld();
 
 const basemaps = {"Streets": streets};
 const buildingMarkers = L.markerClusterGroup();
