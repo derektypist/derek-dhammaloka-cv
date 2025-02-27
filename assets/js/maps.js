@@ -35,7 +35,7 @@ const buildingIcon = L.ExtraMarkers.icon({
 let buildingCoords = [];
 
 let buildingLocations = [[52.2320998, 0.1415806,
-    "Cambridge Science Park","BCS Event in June 2012"], [52.6211393, -1.1246325, "University of Leicester"
+    "Cambridge Science Park","BCS Event in June 2012"], [52.6211393, -1.1246325, "University of Leicester","BCS Events in 2005"
 
 ], [52.4455676, -1.8271322, "Best Western Hotel Acocks Green (Birmingham)","BCS Event in Feburary 2011"],
 [51.5071851, -0.1316683, "IoD Pall Mall London","BCS Annual Dinner in September 2011"],
