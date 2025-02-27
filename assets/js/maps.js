@@ -21,7 +21,7 @@ function onLocationFound(e) {
 map.on('locationfound', onLocationFound);
 map.locate({ setView: true, maxZoom: 6 });
 
-const buildingIcon = L.extraMarkers.icon({
+const buildingIcon = L.ExtraMarkers.icon({
     prefix: 'fa',
     icon: 'fa-building',
     iconColor: 'white',
