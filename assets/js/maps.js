@@ -150,6 +150,14 @@ const buildingMarkers = L.markerClusterGroup();
 const overlays = {"Buildings": buildingMarkers};
 const layerControl = L.control.layers(basemaps, overlays).addTo(map);
 
+function onLocationFound(e) {
+    const latitude = e.latlng['lat'];
+    const longitude = e.latlng['lng'];
+
+}
+
+map.on('locationfound', onLocationFound);
+
 const buildingIcon = L.extraMarkers.icon({
     prefix: 'fa',
     icon: 'fa-building',
