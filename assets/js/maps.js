@@ -143,11 +143,11 @@ const streets = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 });
 
-let map = L.map('map', {layers: [streets]}).fitWorld();
+let map = L.map('map', { layers: [streets] }).fitWorld();
 
-const basemaps = {"Streets": streets};
+const basemaps = { "Streets": streets };
 const buildingMarkers = L.markerClusterGroup();
-const overlays = {"Buildings": buildingMarkers};
+const overlays = { "Buildings": buildingMarkers };
 const layerControl = L.control.layers(basemaps, overlays).addTo(map);
 
 function onLocationFound(e) {
@@ -157,7 +157,7 @@ function onLocationFound(e) {
 }
 
 map.on('locationfound', onLocationFound);
-map.locate({setView: true, maxZoom: 6});
+map.locate({ setView: true, maxZoom: 6 });
 
 const buildingIcon = L.extraMarkers.icon({
     prefix: 'fa',
@@ -167,4 +167,27 @@ const buildingIcon = L.extraMarkers.icon({
     markerColor: '#970043',
     shape: 'square'
 });
+
+// Get the Building Information
+
+let buildingCoords = [];
+
+let buildingLocations = [[52.2320998, 0.1415806,
+    "Cambridge Science Park"], [52.6211393, -1.1246325, "University of Leicester"
+
+], [52.4455676, -1.8271322, "Best Western Hotel Acocks Green (Birmingham)"],
+[51.5071851, -0.1316683, "IoD Pall Mall London"],
+[52.4850317, -2.1150972, "Copthorne Hotel Merry Hill Dudley"],
+[51.4920396, -0.2198412, "Novotel Hotel London West Hammersmith"],
+[51.4985245, -0.1908758, "Copthorne Tara Hotel London Kensington"],
+[51.521232, -0.124308, "De Morgan House (Conference Centre) Russell Square, London"],
+[52.1966209, 0.1307118, "Raspberry Pi Foundation"],
+[52.2000961, 0.1384987, "Hot Numbers Cambridge"],
+[52.20744, 0.122225, "The Cambridge Brew House"],
+[52.2096674, 0.1192446, "The Maypole Cambridge"],
+[52.1961124, 0.155374, "The Brook Cambridge"],
+[52.2188359, 0.1139751, "The Hop and Grain Store Cambridge"],
+[52.2006212, 0.126302, "Chesterton Mill Cambridge"]
+
+];
 
