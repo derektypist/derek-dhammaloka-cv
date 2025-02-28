@@ -86,22 +86,6 @@ Interests Page gives details of Conferences and Meetups I have attended in a Map
 They can include professional organisations (e.g. Cambridge Data Mashup with
 BCS at June 2012 - East Anglia Branch).  The Conferences and Meetups do not have to be limited to Information Technology.
 
-    Label A - Cambridge Science Park
-    Label B - University of Leicester
-    Label C - Best Western Hotel Acocks Green (Birmingham)
-    Label D - IoD Pall Mall (London)
-    Label E - Copthorne Hotel Merry Hill Dudley
-    Label F - Hotel Novotel London West (Hammersmith)
-    Label G - Copthorne Tara Hotel London Kensington
-    Label H - De Morgan House (Conference Centre) - Russell Square, London
-    Label I - Raspberry PI Foundation Cambridge
-    Label J - Hot Numbers Cambridge
-    Label K - Cambridge Brew House
-    Label L - The Maypole Cambridge
-    Label M - The Brook Cambridge
-    Label N - Grain and Hop Store Cambridge
-    Label O - Chesterton Mill Cambridge
-
 All locations on the map are approximate.
 
 My Groups and Societies include BCS, IMA and w3schools.com (Public Facebook Group).  Tooltips are provided to let the browser know that the user has hovered over these interest links.
@@ -144,7 +128,7 @@ You can view my GitHub Projects as well as search for other user profiles.
 - jQuery
 - Bootstrap 4.3.1
 - Font Awesome 4.7.0
-- Google Maps
+- LeafletJS with Marker Cluster and Extra Markers
 
 ## Testing
 
