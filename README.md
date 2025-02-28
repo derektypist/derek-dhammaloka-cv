@@ -116,7 +116,7 @@ Allows you to download a copy of my CV as well as visiting my LinkedIn Profile a
 
 You can view details of my work history and skills.
 
-You can get more information on my interests in the interests page.
+You can get more information on my interests in the interests page.  An interactive map is provided.  Choose streets or satellite view.  Hover on one of the markers to get a tooltip.  Click on one of the markers to view the title, description and link to the building website.
 
 You can view my GitHub Projects as well as search for other user profiles.
 
