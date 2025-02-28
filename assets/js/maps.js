@@ -52,8 +52,8 @@ let buildingLocations = [[52.2320998, 0.1415806,
 [52.20744, 0.122225, "The Cambridge Brew House", { description: "Meetup Event with Cambridge DevOps, Dev & Test Gathering in November 2019.", url: "https://www.thecambridgebrewhouse.com" }],
 [52.2096674, 0.1192446, "The Maypole Cambridge", { description: "Meetup Event with JavaScript & NodeJS Cambridge in January 2023.", url: "http://maypolefreehouse.co.uk" }],
 [52.1961124, 0.155374, "The Brook Cambridge", { description: "Meetups with Cambridge Singles between January 2023 and February 2023.", url: "https://thebrookpub.co.uk" }],
-[52.2188359, 0.1139751, "The Hop and Grain Store Cambridge", { description: "Meetup Event with JavaScript & NodeJS Cambridge in January 2024.", url: "https://www.greeneking.co.uk/pubs/cambridgeshire/grain-and-hop-store" }],
-[52.2006212, 0.126302, "Chesterton Mill Cambridge", { description: "Meetup Event with JavaScript & NodeJS Cambridge in November 2023.", url: "https://www.chestertonmill.com" }],
+[52.200659,  0.126679, "The Hop and Grain Store Cambridge", { description: "Meetup Event with JavaScript & NodeJS Cambridge in January 2024.", url: "https://www.greeneking.co.uk/pubs/cambridgeshire/grain-and-hop-store" }],
+[52.218857,  0.114595, "Chesterton Mill Cambridge", { description: "Meetup Event with JavaScript & NodeJS Cambridge in November 2023.", url: "https://www.chestertonmill.com" }],
 [52.239520, 0.278297, "Black Horse Inn Swaffham Bulbeck", { description: "Meetup Event on Valentines Dinner Date Ages 40+ in February 2014.", url: "https://blackhorseinnswaffham.co.uk" }],
 [53.347690, -2.880654, "Crowne Plaza Liverpool John Lennon Airport", { description: "National Conference with IQPS on Come Fly with Us in October 2002.", url: "https://www.ihg.com/crowneplaza/hotels/gb/en/liverpool/lplcp/hoteldetail" }]
 
