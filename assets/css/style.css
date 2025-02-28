@@ -459,3 +459,13 @@ div#map {
     min-height: 360px;
     
 }
+
+#building a {
+    text-decoration: none;
+    color: #00A347;
+}
+
+#building a:hover {
+    text-decoration: none;
+    color: #008EBA;
+}
