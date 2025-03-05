@@ -93,6 +93,10 @@ Each item includes the following:
 - Description of event
 - Link to Website of building
 
+Popup Example
+
+[!Example](assets/images/popupexample.PNG)
+
 All locations on the map are approximate.
 
 
