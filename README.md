@@ -93,9 +93,9 @@ Each item includes the following:
 - Description of event
 - Link to Website of building
 
-Popup Example
+Popup Example (For Illustration Purposes)
 
-[!Example](assets/images/popupexample.PNG)
+![Popup Example](assets/images/popupexample.PNG)
 
 All locations on the map are approximate.
 
@@ -165,13 +165,14 @@ Most of the code is taken from the mini-project video with Code Institute.
 
 ### Media
 
-Image provided by myself.
+Images (including screenshots) are provided by myself.
 
 ### Acknowledgements
 
 - [Code Institute](https://www.codeinstitute.net)
-- [Google](https://www.google.co.uk)
-- [Meetup](https://www.meetup.com)
 - [Esri](https://www.esri.com) for Satellite Map
+- [Google](https://www.google.co.uk)
+- [Leaflet](https://leafletjs.com)
+- [Meetup](https://www.meetup.com)
 - [Open Street Maps](https://www.openstreetmap.org) including [Copyright Information](https://www.openstreetmap.org/copyright) for Streets Map
 - Raimonda Svirskis - IPES Key Worker - CPA5
