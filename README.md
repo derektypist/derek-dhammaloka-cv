@@ -17,7 +17,7 @@ Simply visit one of the following pages:
 
 On each of the pages, there are links to Facebook and LinkedIn.  Tooltips are provided on hovering over the links.
 
-On the Interests page, you can get more information on BCS, W3Schools and IMA by selecting one of the links (opens in a new tab).  You can also view the locations of the Conferences and Meetups I have attended on Google Maps.  The Conferences and Meetups do not have to be limited to Information Technology.
+On the Interests page, you can get more information on BCS, W3Schools and IMA by selecting one of the links (opens in a new tab).  You can also view the locations of the Conferences and Meetups I have attended on Leaflet - links to buildings (e.g. Hotels) are available and they open in a new tab.  The Conferences and Meetups do not have to be limited to Information Technology.
 
 On the GitHub page, simply enter the username (e.g. derektypist) on the input field.  If the username is blank, you will be asked to enter a username.  If the username does not exist, then there is no information for that username.  If there is information for the username, you will see the username, image (if any), number of followers, number following, number of repositories and repo list.  If there are repos, select one of the repos to view the repository (opens in a new tab) or hover over one of the repos to view a tooltip (e.g. View Repository for Hello-World).  If you have made too many requests, you will be asked to wait until a certain time.
 
@@ -83,10 +83,18 @@ The Contact Page is where you (the user) can request a project by filling in the
 ### Interests
 
 Interests Page gives details of Conferences and Meetups I have attended in a Map.
+
 They can include professional organisations (e.g. Cambridge Data Mashup with
 BCS at June 2012 - East Anglia Branch).  The Conferences and Meetups do not have to be limited to Information Technology.
 
+Each item includes the following:
+
+- Name of building
+- Description of event
+- Link to Website of building
+
 All locations on the map are approximate.
+
 
 My Groups and Societies include BCS, IMA and w3schools.com (Public Facebook Group).  Tooltips are provided to let the browser know that the user has hovered over these interest links.
 
@@ -160,4 +168,6 @@ Image provided by myself.
 - [Code Institute](https://www.codeinstitute.net)
 - [Google](https://www.google.co.uk)
 - [Meetup](https://www.meetup.com)
+- [Esri](https://www.esri.com) for Satellite Map
+- [Open Street Maps](https://www.openstreetmap.org) including [Copyright Information](https://www.openstreetmap.org/copyright) for Streets Map
 - Raimonda Svirskis - IPES Key Worker - CPA5
