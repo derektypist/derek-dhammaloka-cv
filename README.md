@@ -147,6 +147,13 @@ You can view my GitHub Projects as well as search for other user profiles.
 All External Links (including social media) open in a new window without leaving the website using the `target=_blank` attribute.  The links are manually tested to
 ensure that they are taken to the correct destination.
 
+**Validator Testing**
+
+- HTML
+
+- CSS
+    - No errors were found when passing through the official [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fderektypist.github.io%2Fderek-dhammaloka-cv%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
 ## Deployment
 
 This is deployed on [GitHub Pages](https://derektypist.github.io/derek-dhammaloka-cv) at the Master Branch.
