@@ -152,6 +152,8 @@ You can view my GitHub Projects as well as search for other user profiles.
 
     - Groups and Societies includes links to BCS, W3Schools.com and IMA.  The links will open in a new tab to allow easy navigation for the user.  Further links are available (e.g. Social Media).
 
+![Interests Page](assets/images/interestspage.png)
+
 - The Footer
 
     - The footer section includes links to the relevant social media.  The links will open in a new tab to allow easy navigation for the user.
