@@ -142,6 +142,14 @@ You can view my GitHub Projects as well as search for other user profiles.
 
 ![Navigation Bar](assets/images/navigation.png)
 
+- Interests Page
+
+    - The interests page will allow the user to see a map of the conferences and meetups (usually in buildings) as well as the groups and societies.
+    
+    - Clicking on one of the building icons will give the popup (name of building, details of meetup and link to website of building, which opens in new tab to allow easy navigation for the user).
+
+    - Groups and Societies includes links to BCS, W3Schools.com and IMA.  The links will open in a new tab to allow easy navigation for the user.  Further links are available.
+
 - The Footer
 
     - The footer section includes links to the relevant social media.  The links will open in a new tab to allow easy navigation for the user.
