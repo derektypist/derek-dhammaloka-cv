@@ -2,6 +2,8 @@
 
 Welcome to Derek Dhammaloka's CV.  The purpose of this project is to provide information on Interests, GitHub, Resume and Contact.  A copy of the CV can be viewed and/or downloaded.
 
+![Home Page](assets/images/homepage.png)
+
 ## UX
 
 **Getting Started**
