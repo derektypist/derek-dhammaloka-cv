@@ -140,7 +140,7 @@ You can view my GitHub Projects as well as search for other user profiles.
 
     = This section allows the user to easily navigate from page to page across all devices without having to revert to the previous page via the 'back' button.
 
-
+![Navigation Bar](assets/images/navigation.png)
 
 - The Footer
 
