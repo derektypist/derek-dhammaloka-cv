@@ -140,6 +140,8 @@ You can view my GitHub Projects as well as search for other user profiles.
 
     - The footer is valuable to the user as it encourages them to keep connected via social media.
 
+![Footer](assets/images/footer.png)
+
 ## Technologies
 
 - HTML5
