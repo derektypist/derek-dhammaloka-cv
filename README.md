@@ -134,6 +134,12 @@ You can get more information on my interests in the interests page.  An interact
 
 You can view my GitHub Projects as well as search for other user profiles.
 
+- The Footer
+
+    - The footer section includes links to the relevant social media.  The links will open in a new tab to allow easy navigation for the user.
+
+    - The footer is valuable to the user as it encourages them to keep connected via social media.
+
 ## Technologies
 
 - HTML5
