@@ -148,7 +148,9 @@ You can view my GitHub Projects as well as search for other user profiles.
     
     - Clicking on one of the building icons will give the popup (name of building, details of meetup and link to website of building, which opens in new tab to allow easy navigation for the user).
 
-    - Groups and Societies includes links to BCS, W3Schools.com and IMA.  The links will open in a new tab to allow easy navigation for the user.  Further links are available.
+    - Hovering on one of the building icons will give tooltips on the name of the building.
+
+    - Groups and Societies includes links to BCS, W3Schools.com and IMA.  The links will open in a new tab to allow easy navigation for the user.  Further links are available (e.g. Social Media).
 
 - The Footer
 
