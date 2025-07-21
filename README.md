@@ -134,6 +134,14 @@ You can get more information on my interests in the interests page.  An interact
 
 You can view my GitHub Projects as well as search for other user profiles.
 
+- Navigation Bar
+
+    - Featured on all pages, except the Download CV (which is a PDF).  Allows links to the Logo, Home Page, Resume, Interests, Contact and GitHub.  The Download CV opens in a new tab.
+
+    = This section allows the user to easily navigate from page to page across all devices without having to revert to the previous page via the 'back' button.
+
+
+
 - The Footer
 
     - The footer section includes links to the relevant social media.  The links will open in a new tab to allow easy navigation for the user.
