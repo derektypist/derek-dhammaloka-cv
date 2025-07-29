@@ -154,6 +154,16 @@ You can view my GitHub Projects as well as search for other user profiles.
 
 ![Interests Page](assets/images/interestspage.png)
 
+- GitHub Page
+
+    - The GitHub page allows the user to search user profiles.  Usage limits apply.  If there are too many requests, a message will be displayed.
+
+    - Clicking on one of the repositories, will give details of the repository (opens in a new tab to allow easy navigation for the user).
+
+    - Cicking on one of the usernames, gives details of the username (opens in a new tab to allow easy navigation for the user).
+
+![GitHub Page showing Username and Image](assets/images/githubpage-1.png)
+
 - The Footer
 
     - The footer section includes links to the relevant social media.  The links will open in a new tab to allow easy navigation for the user.
