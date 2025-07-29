@@ -142,6 +142,12 @@ You can view my GitHub Projects as well as search for other user profiles.
 
 ![Navigation Bar](assets/images/navigation.png)
 
+- Resume Page
+
+    - The resume page gives details of work history and skills (front end and back end)
+
+![Resume Page](assets/images/resumepage.png)
+
 - Interests Page
 
     - The interests page will allow the user to see a map of the conferences and meetups (usually in buildings) as well as the groups and societies.
