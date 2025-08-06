@@ -197,6 +197,9 @@ ensure that they are taken to the correct destination.
 
 **Validator Testing**
 
+- HTML
+    - A report is available through through the official [W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fderektypist.github.io%2Fderek-dhammaloka-cv)
+
 - CSS
     - No errors were found when passing through the official [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fderektypist.github.io%2Fderek-dhammaloka-cv%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
