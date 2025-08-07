@@ -209,6 +209,7 @@ header {
     display: block;
     color: #fafafa;
     font-size: 26px;
+    text-align: center;
 }
 
 .menuitem span {
