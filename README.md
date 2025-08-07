@@ -187,7 +187,7 @@ You can view my GitHub Projects as well as search for other user profiles.
 - JavaScript
 - jQuery
 - Bootstrap 4.3.1
-- Font Awesome 4.7.0
+- Font Awesome 7.0.0
 - LeafletJS with Marker Cluster and Extra Markers
 
 ## Testing
