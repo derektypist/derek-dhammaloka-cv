@@ -170,7 +170,7 @@ You can view my GitHub Projects as well as search for other user profiles.
 
     - Clicking on one of the usernames, gives details of the username (opens in a new tab to allow easy navigation for the user).
 
-![GitHub Page showing Username and Image](assets/images/githubpage-1.png)
+![GitHub Page showing Username and Image](assets/images/githubpage.png)
 
 - The Footer
 
@@ -195,10 +195,12 @@ You can view my GitHub Projects as well as search for other user profiles.
 All External Links (including social media) open in a new window without leaving the website using the `target=_blank` attribute.  The links are manually tested to
 ensure that they are taken to the correct destination.
 
+A Lighthouse Report can be obtained.  On a Chromium-based Web Browser (e.g. Microsoft Edge) right-click on a page, select `Inspect`.  Select Lighthouse, then `Analyze Page Load`.
+
 **Validator Testing**
 
 - HTML
-    - A report is available through through the official [W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fderektypist.github.io%2Fderek-dhammaloka-cv)
+    - No errors were found when through through the official [W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fderektypist.github.io%2Fderek-dhammaloka-cv)
 
 - CSS
     - No errors were found when passing through the official [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fderektypist.github.io%2Fderek-dhammaloka-cv%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
