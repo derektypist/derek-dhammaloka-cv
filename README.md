@@ -205,6 +205,10 @@ Lighthouse Report for the Resume Page
 
 ![Lighthouse Report for the Resume Page](assets/images/lighthousereport-resumepage.png)
 
+Lighthouse Report for the Contact Page
+
+
+
 **Validator Testing**
 
 - HTML
