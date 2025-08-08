@@ -201,6 +201,10 @@ Lighthouse Report for the Home Page
 
 ![Lighthouse Report for Index Page](assets/images/lighthousereport-homepage.png)
 
+Lighthouse Report for the Resume Page
+
+![Lighthouse Report for the Resume Page](assets/images/lighthousereport-resumepage.png)
+
 **Validator Testing**
 
 - HTML
