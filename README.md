@@ -207,7 +207,7 @@ Lighthouse Report for the Resume Page
 
 Lighthouse Report for the Contact Page
 
-
+![Lighthouse Report for the Contact Page](assets/images/lighthousereport-contactpage.png)
 
 **Validator Testing**
 
