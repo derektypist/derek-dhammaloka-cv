@@ -209,6 +209,10 @@ Lighthouse Report for the Contact Page
 
 ![Lighthouse Report for the Contact Page](assets/images/lighthousereport-contactpage.png)
 
+Lighthouse Report for the Interests Page
+
+![Lighthouse Report for the Interests Page](assets/images/lighthousereport-interestspage.png)
+
 **Validator Testing**
 
 - HTML
