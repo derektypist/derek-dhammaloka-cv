@@ -197,6 +197,10 @@ ensure that they are taken to the correct destination.
 
 A Lighthouse Report can be obtained.  On a Chromium-based Web Browser (e.g. Microsoft Edge) right-click on a page, select `Inspect`.  Select Lighthouse, then `Analyze Page Load`.
 
+Lighthouse Report for the Home Page
+
+![Lighthouse Report for Index Page](assets/images/lighthousereport-homepage.png)
+
 **Validator Testing**
 
 - HTML
