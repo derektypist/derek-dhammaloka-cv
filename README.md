@@ -215,7 +215,7 @@ Lighthouse Report for the Interests Page
 
 Lighthouse Report for the GitHub Page
 
-
+![Lighthouse Report for the GitHub Page](assets/images/lighthousereport-githubpage.png)
 
 **Validator Testing**
 
