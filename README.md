@@ -213,6 +213,10 @@ Lighthouse Report for the Interests Page
 
 ![Lighthouse Report for the Interests Page](assets/images/lighthousereport-interestspage.png)
 
+Lighthouse Report for the GitHub Page
+
+
+
 **Validator Testing**
 
 - HTML
