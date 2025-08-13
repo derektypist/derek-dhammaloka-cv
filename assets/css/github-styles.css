@@ -127,22 +127,12 @@ img {
   border-radius: 3px;
   color: #fff;
   background-color: #3673af;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#5597d8), to(#3673af));
-  background-image: -webkit-linear-gradient(top, #5597d8, #3673af);
-  background-image: -moz-linear-gradient(top, #5597d8, #3673af);
-  background-image: -ms-linear-gradient(top, #5597d8, #3673af);
-  background-image: -o-linear-gradient(top, #5597d8, #3673af);
-  background-image: linear-gradient(top, #5597d8, #3673af);
+  background-image: linear-gradient(to top, #5597d8, #3673af);
 }
 
 .repo-list ul li a:hover {
   background-color: #396895;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#4b87c2), to(#396895));
-  background-image: -webkit-linear-gradient(top, #4b87c2, #396895);
-  background-image: -moz-linear-gradient(top, #4b87c2, #396895);
-  background-image: -ms-linear-gradient(top, #4b87c2, #396895);
-  background-image: -o-linear-gradient(top, #4b87c2, #396895);
-  background-image: linear-gradient(top, #4b87c2, #396895);
+  background-image: linear-gradient(to top, #4b87c2, #396895);
 }
 
 .repo-list ul li a:active {
@@ -176,10 +166,6 @@ img {
   text-decoration: none;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
   background-color: #eaeaea;
-  background-image: -webkit-linear-gradient(#fafafa, #eaeaea);
-  background-image: -moz-linear-gradient(#fafafa, #eaeaea);
-  background-image: -ms-linear-gradient(top, #fafafa, #eaeaea);
-  background-image: -o-linear-gradient(top, #fafafa, #eaeaea);
   background-image: linear-gradient(#fafafa, #eaeaea);
   border-radius: 3px;
   border: 1px solid #ddd;
@@ -191,10 +177,6 @@ img {
 
 #gh-submit:hover {
   background-color: #dadada;
-  background-image: -webkit-linear-gradient(#eaeaea, #dadada);
-  background-image: -moz-linear-gradient(#eaeaea, #dadada);
-  background-image: -ms-linear-gradient(top, #eaeaea, #dadada);
-  background-image: -o-linear-gradient(top, #eaeaea, #dadada);
   background-image: linear-gradient(#eaeaea, #dadada);
   border-color: #ccc #ccc #b5b5b5;
 }
