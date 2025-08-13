@@ -369,7 +369,7 @@ footer .cv-pdf i:hover {
 }
 
 .timeline-item::before {
-    content: attr(dates);
+    content: attr(data-dates);
     position: absolute;
     left: 2.5em;
     top: 3em;
