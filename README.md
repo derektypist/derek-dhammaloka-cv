@@ -225,6 +225,9 @@ Lighthouse Report for the GitHub Page
 - CSS
     - No errors were found when passing through the official [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fderektypist.github.io%2Fderek-dhammaloka-cv%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
+- Link Checker
+    - A report is available through the original [W3C Link Checker](https://validator.w3.org/checklink?uri=https%3A%2F%2Fderektypist.github.io%2Fderek-dhammaloka-cv&hide_type=all&depth=&check=Check)
+
 ## Deployment
 
 This is deployed on [GitHub Pages](https://derektypist.github.io/derek-dhammaloka-cv) at the Master Branch.
