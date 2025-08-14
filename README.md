@@ -242,7 +242,17 @@ Lighthouse Report for the GitHub Page
 
 - A screenshot of the resume and interest pages are available in the Features section.
 
+- Too Many Requests (For Illustration Purposes Only)
 
+![Too Many Requests Example](assets/images/toomanyrequests.png)
+
+- No Username (For Illustration Purposes Only)
+
+![No Username Entered](assets/images/emptyusername.png)
+
+- No Information for User (For Illustration Purposes Only)
+
+![No Information for Username](assets/images/nouserinfo.png)
 
 ## Deployment
 
