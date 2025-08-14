@@ -27,33 +27,33 @@ On the Download CV, you can download a copy of my CV for printing.
 
 **User Stories**
 
-As a user, I can view/download a copy of my CV.
+- As a user, I can view/download a copy of my CV.
 
-As a user, I can get a tooltip (e.g. LinkedIn) by hovering over one of the social links.
+- As a user, I can get a tooltip (e.g. LinkedIn) by hovering over one of the social links.
 
-As a user, if I am on the Interests page, I can get tooltips by hovering over the links.
+- As a user, if I am on the Interests page, I can get tooltips by hovering over the links.
 
-As a user, if I am on the GitHub page and the username has repos, I can get tooltips by hovering over one of the repositories.  For example, `View repository for Hello-World`.
+- As a user, if I am on the GitHub page and the username has repos, I can get tooltips by hovering over one of the repositories.  For example, `View repository for Hello-World`.
 
-As a user, if I select one of the links, I can get more information on one of the links, for example `BCS` (opens in a new tab).
+- As a user, if I select one of the links, I can get more information on one of the links, for example `BCS` (opens in a new tab).
 
-As a user, I can view my work history.
+- As a user, I can view my work history.
 
-As a user, I can view my skills.
+- As a user, I can view my skills.
 
-As a user, I can view my interests.
+- As a user, I can view my interests.
 
-As a user, I can view GitHub Projects of anyone (including mine).
+- As a user, I can view GitHub Projects of anyone (including mine).
 
-As a user, I can search on other user profiles (e.g. igorvanloo).
+- As a user, I can search on other user profiles (e.g. igorvanloo).
 
-As a user, if I do not enter a username, I will be required to enter a username.
+- As a user, if I do not enter a username, I will be required to enter a username.
 
-As a user, if I enter a username that does not exist, I will get the message
+- As a user, if I enter a username that does not exist, I will get the message
 
 `No info found for user username`
 
-As a user, if I have made too many requests, I will be asked to wait until a certain time.
+- As a user, if I have made too many requests, I will be asked to wait until a certain time.
 
 **Information Architecture**
 
@@ -227,6 +227,18 @@ Lighthouse Report for the GitHub Page
 
 - Link Checker
     - A report is available through the official [W3C Link Checker](https://validator.w3.org/checklink?uri=https%3A%2F%2Fderektypist.github.io%2Fderek-dhammaloka-cv&hide_type=all&depth=&check=Check)
+
+**User Stories Testing**
+
+- Upon Selecting `Download CV` or clicking on the Download Icon at the footer, a PDF version of the CV is available.  It opens in a new tab.
+
+- Hovering on one of the social links gives a tooltip (e.g. LinkedIn)
+
+- Hovering on one of the links in the Interests page gives a tooltip.  This includes the buildings on a map.
+
+- Going to the GitHub page, hovering on one of the repos will give a tooltip.  For example, in FreeCodecamp, if I hover on about, I should get `View Repository for about`.
+
+- Selecting one of the links (e.g. Best Western Hotel Acocks Green (Birmingham)) takes the user to the Best Western Hotel Acocks Green (Birmingham), on a new tab.  Here, further information can be viewed, such as Description, Facilities and photos.
 
 ## Deployment
 
