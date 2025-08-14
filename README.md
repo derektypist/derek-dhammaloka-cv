@@ -238,7 +238,11 @@ Lighthouse Report for the GitHub Page
 
 - Going to the GitHub page, hovering on one of the repos will give a tooltip.  For example, in FreeCodecamp, if I hover on about, I should get `View Repository for about`.
 
-- Selecting one of the links (e.g. Best Western Hotel Acocks Green (Birmingham)) takes the user to the Best Western Hotel Acocks Green (Birmingham), on a new tab.  Here, further information can be viewed, such as Description, Facilities and photos.
+- Clicking on one of the links (e.g. Best Western Hotel Acocks Green (Birmingham)) opens the link in a new tab to ensure that the user can easily get back to the website.  In the link, further information can be viewed, e.g. in the case of Hotels, it can include Photos, Facilities.
+
+- A screenshot of the resume and interest pages are available in the Features section.
+
+
 
 ## Deployment
 
