@@ -197,23 +197,23 @@ ensure that they are taken to the correct destination.
 
 A Lighthouse Report can be obtained.  On a Chromium-based Web Browser (e.g. Microsoft Edge) right-click on a page, select `Inspect`.  Select Lighthouse, then `Analyze Page Load`.
 
-Lighthouse Report for the Home Page
+Lighthouse Report for the Home Page (For Illustration Purposes Only)
 
 ![Lighthouse Report for Index Page](assets/images/lighthousereport-homepage.png)
 
-Lighthouse Report for the Resume Page
+Lighthouse Report for the Resume Page (For Illustration Purposes Only)
 
 ![Lighthouse Report for the Resume Page](assets/images/lighthousereport-resumepage.png)
 
-Lighthouse Report for the Contact Page
+Lighthouse Report for the Contact Page (For Illustration Purposes Only)
 
 ![Lighthouse Report for the Contact Page](assets/images/lighthousereport-contactpage.png)
 
-Lighthouse Report for the Interests Page
+Lighthouse Report for the Interests Page (For Illustration Purposes Only)
 
 ![Lighthouse Report for the Interests Page](assets/images/lighthousereport-interestspage.png)
 
-Lighthouse Report for the GitHub Page
+Lighthouse Report for the GitHub Page (For Illustration Purposes Only)
 
 ![Lighthouse Report for the GitHub Page](assets/images/lighthousereport-githubpage.png)
 
